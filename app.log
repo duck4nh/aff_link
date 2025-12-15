@@ -1,0 +1,212 @@
+2025-12-13 11:00:50,958 - INFO - ==================================================
+2025-12-13 11:00:50,961 - INFO - ==================================================
+2025-12-13 11:00:51,002 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.176:5000
+2025-12-13 11:00:51,003 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-13 11:00:51,004 - INFO -  * Restarting with stat
+2025-12-13 11:00:51,202 - INFO - ==================================================
+2025-12-13 11:00:51,205 - INFO - ==================================================
+2025-12-13 11:00:51,219 - WARNING -  * Debugger is active!
+2025-12-13 11:00:51,223 - INFO -  * Debugger PIN: 314-670-284
+2025-12-13 11:02:24,170 - INFO - 127.0.0.1 - - [13/Dec/2025 11:02:24] "GET /health HTTP/1.1" 200 -
+2025-12-13 11:02:31,276 - INFO - 127.0.0.1 - - [13/Dec/2025 11:02:31] "[35m[1mPOST /search_affiliate HTTP/1.1[0m" 202 -
+2025-12-13 11:02:33,293 - INFO - 127.0.0.1 - - [13/Dec/2025 11:02:33] "GET /polling?job_id=job_1765598551254 HTTP/1.1" 200 -
+2025-12-13 11:02:40,328 - INFO - 127.0.0.1 - - [13/Dec/2025 11:02:40] "GET /polling?job_id=job_1765598551254 HTTP/1.1" 200 -
+2025-12-13 11:02:47,372 - INFO - 127.0.0.1 - - [13/Dec/2025 11:02:47] "GET /polling?job_id=job_1765598551254 HTTP/1.1" 200 -
+2025-12-13 11:02:54,407 - INFO - 127.0.0.1 - - [13/Dec/2025 11:02:54] "GET /polling?job_id=job_1765598551254 HTTP/1.1" 200 -
+2025-12-13 11:03:01,445 - INFO - 127.0.0.1 - - [13/Dec/2025 11:03:01] "GET /polling?job_id=job_1765598551254 HTTP/1.1" 200 -
+2025-12-13 11:03:08,482 - INFO - 127.0.0.1 - - [13/Dec/2025 11:03:08] "GET /polling?job_id=job_1765598551254 HTTP/1.1" 200 -
+2025-12-13 11:03:53,953 - INFO - ==================================================
+2025-12-13 11:03:53,956 - INFO - ==================================================
+2025-12-13 11:03:53,991 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.176:5000
+2025-12-13 11:03:53,991 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-13 11:03:53,991 - INFO -  * Restarting with stat
+2025-12-13 11:03:54,194 - INFO - ==================================================
+2025-12-13 11:03:54,194 - INFO - ==================================================
+2025-12-13 11:03:54,209 - WARNING -  * Debugger is active!
+2025-12-13 11:03:54,212 - INFO -  * Debugger PIN: 314-670-284
+2025-12-13 11:04:27,999 - INFO - 127.0.0.1 - - [13/Dec/2025 11:04:27] "GET /health HTTP/1.1" 200 -
+2025-12-13 11:04:32,168 - INFO - 127.0.0.1 - - [13/Dec/2025 11:04:32] "[35m[1mPOST /search_affiliate HTTP/1.1[0m" 202 -
+2025-12-13 11:04:34,189 - INFO - 127.0.0.1 - - [13/Dec/2025 11:04:34] "GET /polling?job_id=job_1765598672140 HTTP/1.1" 200 -
+2025-12-13 11:06:28,627 - INFO - ==================================================
+2025-12-13 11:06:28,627 - INFO - ==================================================
+2025-12-13 11:06:28,667 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.176:5000
+2025-12-13 11:06:28,667 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-13 11:06:28,668 - INFO -  * Restarting with stat
+2025-12-13 11:06:28,875 - INFO - ==================================================
+2025-12-13 11:06:28,875 - INFO - ==================================================
+2025-12-13 11:06:28,894 - WARNING -  * Debugger is active!
+2025-12-13 11:06:28,895 - INFO -  * Debugger PIN: 314-670-284
+2025-12-13 11:06:37,808 - INFO - ==================================================
+2025-12-13 11:06:37,808 - INFO - ==================================================
+2025-12-13 11:06:37,841 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.176:5000
+2025-12-13 11:06:37,841 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-13 11:06:37,841 - INFO -  * Restarting with stat
+2025-12-13 11:06:38,047 - INFO - ==================================================
+2025-12-13 11:06:38,047 - INFO - ==================================================
+2025-12-13 11:06:38,066 - WARNING -  * Debugger is active!
+2025-12-13 11:06:38,068 - INFO -  * Debugger PIN: 314-670-284
+2025-12-13 11:07:51,569 - INFO - ==================================================
+2025-12-13 11:07:51,569 - INFO - ==================================================
+2025-12-13 11:07:51,604 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.176:5000
+2025-12-13 11:07:51,604 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-13 11:07:51,604 - INFO -  * Restarting with stat
+2025-12-13 11:07:51,809 - INFO - ==================================================
+2025-12-13 11:07:51,809 - INFO - ==================================================
+2025-12-13 11:07:51,825 - WARNING -  * Debugger is active!
+2025-12-13 11:07:51,829 - INFO -  * Debugger PIN: 314-670-284
+2025-12-13 11:07:59,996 - INFO - 127.0.0.1 - - [13/Dec/2025 11:07:59] "GET /health HTTP/1.1" 200 -
+2025-12-13 11:08:04,526 - INFO - 127.0.0.1 - - [13/Dec/2025 11:08:04] "[35m[1mPOST /search_affiliate HTTP/1.1[0m" 202 -
+2025-12-13 11:08:06,564 - INFO - 127.0.0.1 - - [13/Dec/2025 11:08:06] "GET /polling?job_id=job_1765598884505 HTTP/1.1" 200 -
+2025-12-13 11:08:13,602 - INFO - 127.0.0.1 - - [13/Dec/2025 11:08:13] "GET /polling?job_id=job_1765598884505 HTTP/1.1" 200 -
+2025-12-13 11:08:20,632 - INFO - 127.0.0.1 - - [13/Dec/2025 11:08:20] "GET /polling?job_id=job_1765598884505 HTTP/1.1" 200 -
+2025-12-13 11:08:27,666 - INFO - 127.0.0.1 - - [13/Dec/2025 11:08:27] "GET /polling?job_id=job_1765598884505 HTTP/1.1" 200 -
+2025-12-13 11:08:34,706 - INFO - 127.0.0.1 - - [13/Dec/2025 11:08:34] "GET /polling?job_id=job_1765598884505 HTTP/1.1" 200 -
+2025-12-13 11:08:41,734 - INFO - 127.0.0.1 - - [13/Dec/2025 11:08:41] "GET /polling?job_id=job_1765598884505 HTTP/1.1" 200 -
+2025-12-13 11:08:48,754 - INFO - 127.0.0.1 - - [13/Dec/2025 11:08:48] "GET /polling?job_id=job_1765598884505 HTTP/1.1" 200 -
+2025-12-13 11:08:55,823 - INFO - 127.0.0.1 - - [13/Dec/2025 11:08:55] "GET /polling?job_id=job_1765598884505 HTTP/1.1" 200 -
+2025-12-13 11:09:02,886 - INFO - 127.0.0.1 - - [13/Dec/2025 11:09:02] "GET /polling?job_id=job_1765598884505 HTTP/1.1" 200 -
+2025-12-13 11:09:04,940 - INFO - 127.0.0.1 - - [13/Dec/2025 11:09:04] "GET /results?job_id=job_1765598884505 HTTP/1.1" 200 -
+2025-12-13 11:09:06,991 - INFO - 127.0.0.1 - - [13/Dec/2025 11:09:06] "GET /status HTTP/1.1" 200 -
+2025-12-13 11:12:54,148 - INFO -  * Detected change in 'D:\\MMO\\affiliate\\app.py', reloading
+2025-12-13 11:12:54,181 - INFO -  * Restarting with stat
+2025-12-13 11:14:24,692 - INFO - ==================================================
+2025-12-13 11:14:24,692 - INFO - Shopee Affiliate Scraper Server khởi động
+2025-12-13 11:14:24,692 - INFO - ==================================================
+2025-12-13 11:14:24,725 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.176:5000
+2025-12-13 11:14:24,726 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-13 11:14:24,727 - INFO -  * Restarting with stat
+2025-12-13 11:14:24,934 - INFO - ==================================================
+2025-12-13 11:14:24,934 - INFO - Shopee Affiliate Scraper Server khởi động
+2025-12-13 11:14:24,934 - INFO - ==================================================
+2025-12-13 11:14:24,948 - WARNING -  * Debugger is active!
+2025-12-13 11:14:24,953 - INFO -  * Debugger PIN: 314-670-284
+2025-12-13 11:14:34,055 - INFO - 127.0.0.1 - - [13/Dec/2025 11:14:34] "GET /health HTTP/1.1" 200 -
+2025-12-13 11:14:36,085 - INFO - Xóa file CSV cũ: Lấy link sản phẩm hàng loạt20251213110900-8b088e3b243149a7b843074f14a0e0d3.csv
+2025-12-13 11:14:36,091 - INFO - Xóa file CSV cũ: shopee_affiliate_links.csv
+2025-12-13 11:14:36,091 - INFO - [job_1765599276091] Chạy lệnh: python search_shopee_affiliate.py "điện thoại"
+2025-12-13 11:14:36,105 - INFO - 127.0.0.1 - - [13/Dec/2025 11:14:36] "[35m[1mPOST /search_affiliate HTTP/1.1[0m" 202 -
+2025-12-13 11:14:38,133 - INFO - 127.0.0.1 - - [13/Dec/2025 11:14:38] "GET /polling?job_id=job_1765599276091 HTTP/1.1" 200 -
+2025-12-13 11:14:45,168 - INFO - 127.0.0.1 - - [13/Dec/2025 11:14:45] "GET /polling?job_id=job_1765599276091 HTTP/1.1" 200 -
+2025-12-13 11:14:52,215 - INFO - 127.0.0.1 - - [13/Dec/2025 11:14:52] "GET /polling?job_id=job_1765599276091 HTTP/1.1" 200 -
+2025-12-13 11:14:59,265 - INFO - 127.0.0.1 - - [13/Dec/2025 11:14:59] "GET /polling?job_id=job_1765599276091 HTTP/1.1" 200 -
+2025-12-13 11:15:06,312 - INFO - 127.0.0.1 - - [13/Dec/2025 11:15:06] "GET /polling?job_id=job_1765599276091 HTTP/1.1" 200 -
+2025-12-13 11:15:13,366 - INFO - 127.0.0.1 - - [13/Dec/2025 11:15:13] "GET /polling?job_id=job_1765599276091 HTTP/1.1" 200 -
+2025-12-13 11:15:20,407 - INFO - 127.0.0.1 - - [13/Dec/2025 11:15:20] "GET /polling?job_id=job_1765599276091 HTTP/1.1" 200 -
+2025-12-13 11:15:27,433 - INFO - 127.0.0.1 - - [13/Dec/2025 11:15:27] "GET /polling?job_id=job_1765599276091 HTTP/1.1" 200 -
+2025-12-13 11:15:34,486 - INFO - [job_1765599276091] Tìm kiếm hoàn thành
+2025-12-13 11:15:34,486 - INFO - 127.0.0.1 - - [13/Dec/2025 11:15:34] "GET /polling?job_id=job_1765599276091 HTTP/1.1" 200 -
+2025-12-13 11:15:36,540 - INFO - [job_1765599276091] Trả về 100 kết quả
+2025-12-13 11:15:36,542 - INFO - 127.0.0.1 - - [13/Dec/2025 11:15:36] "GET /results?job_id=job_1765599276091 HTTP/1.1" 200 -
+2025-12-13 11:15:38,603 - INFO - 127.0.0.1 - - [13/Dec/2025 11:15:38] "GET /status HTTP/1.1" 200 -
+2025-12-14 21:47:59,338 - INFO - ==================================================
+2025-12-14 21:47:59,338 - INFO - Shopee Affiliate Scraper Server khởi động
+2025-12-14 21:47:59,338 - INFO - ==================================================
+2025-12-14 21:47:59,390 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.101:5000
+2025-12-14 21:47:59,391 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-14 21:47:59,392 - INFO -  * Restarting with stat
+2025-12-14 21:47:59,617 - INFO - ==================================================
+2025-12-14 21:47:59,617 - INFO - Shopee Affiliate Scraper Server khởi động
+2025-12-14 21:47:59,617 - INFO - ==================================================
+2025-12-14 21:47:59,634 - WARNING -  * Debugger is active!
+2025-12-14 21:47:59,639 - INFO -  * Debugger PIN: 314-670-284
+2025-12-14 21:48:10,826 - INFO - 127.0.0.1 - - [14/Dec/2025 21:48:10] "GET /health HTTP/1.1" 200 -
+2025-12-14 21:48:19,016 - INFO - Xóa file CSV cũ: Lấy link sản phẩm hàng loạt20251214175303-2b83f5d245ee4e249aeb5aa770698fe2.csv
+2025-12-14 21:48:19,018 - INFO - Xóa file CSV cũ: shopee_affiliate_links.csv
+2025-12-14 21:48:19,020 - INFO - [job_1765723699019] Chạy lệnh: python search_shopee_affiliate.py "cau long"
+2025-12-14 21:48:19,036 - INFO - 127.0.0.1 - - [14/Dec/2025 21:48:19] "[35m[1mPOST /search_affiliate HTTP/1.1[0m" 202 -
+2025-12-14 21:48:21,083 - INFO - 127.0.0.1 - - [14/Dec/2025 21:48:21] "GET /polling?job_id=job_1765723699019 HTTP/1.1" 200 -
+2025-12-14 21:48:28,136 - INFO - 127.0.0.1 - - [14/Dec/2025 21:48:28] "GET /polling?job_id=job_1765723699019 HTTP/1.1" 200 -
+2025-12-14 21:48:35,182 - INFO - 127.0.0.1 - - [14/Dec/2025 21:48:35] "GET /polling?job_id=job_1765723699019 HTTP/1.1" 200 -
+2025-12-14 21:48:42,221 - INFO - 127.0.0.1 - - [14/Dec/2025 21:48:42] "GET /polling?job_id=job_1765723699019 HTTP/1.1" 200 -
+2025-12-14 21:48:49,268 - INFO - 127.0.0.1 - - [14/Dec/2025 21:48:49] "GET /polling?job_id=job_1765723699019 HTTP/1.1" 200 -
+2025-12-14 21:48:56,342 - INFO - 127.0.0.1 - - [14/Dec/2025 21:48:56] "GET /polling?job_id=job_1765723699019 HTTP/1.1" 200 -
+2025-12-14 21:49:03,397 - INFO - 127.0.0.1 - - [14/Dec/2025 21:49:03] "GET /polling?job_id=job_1765723699019 HTTP/1.1" 200 -
+2025-12-14 21:49:10,433 - INFO - 127.0.0.1 - - [14/Dec/2025 21:49:10] "GET /polling?job_id=job_1765723699019 HTTP/1.1" 200 -
+2025-12-14 21:49:17,469 - INFO - [job_1765723699019] Tìm kiếm hoàn thành
+2025-12-14 21:49:17,470 - INFO - 127.0.0.1 - - [14/Dec/2025 21:49:17] "GET /polling?job_id=job_1765723699019 HTTP/1.1" 200 -
+2025-12-14 21:49:19,511 - INFO - [job_1765723699019] Trả về 100 kết quả
+2025-12-14 21:49:19,512 - INFO - 127.0.0.1 - - [14/Dec/2025 21:49:19] "GET /results?job_id=job_1765723699019 HTTP/1.1" 200 -
+2025-12-14 21:49:21,550 - INFO - 127.0.0.1 - - [14/Dec/2025 21:49:21] "GET /status HTTP/1.1" 200 -
+2025-12-14 21:50:00,994 - INFO -  * Detected change in 'D:\\MMO\\affiliate\\search_shopee_affiliate.py', reloading
+2025-12-14 21:50:01,033 - INFO -  * Restarting with stat
+2025-12-14 21:50:01,260 - INFO - ==================================================
+2025-12-14 21:50:01,260 - INFO - Shopee Affiliate Scraper Server khởi động
+2025-12-14 21:50:01,261 - INFO - ==================================================
+2025-12-14 21:50:01,275 - WARNING -  * Debugger is active!
+2025-12-14 21:50:01,279 - INFO -  * Debugger PIN: 314-670-284
+2025-12-14 21:53:57,144 - INFO - 127.0.0.1 - - [14/Dec/2025 21:53:57] "GET /health HTTP/1.1" 200 -
+2025-12-14 21:54:01,352 - INFO - Xóa file CSV cũ: shopee_affiliate_links.csv
+2025-12-14 21:54:01,353 - INFO - [job_1765724041352] Chạy lệnh: python search_shopee_affiliate.py "bóng rổ"
+2025-12-14 21:54:01,366 - INFO - 127.0.0.1 - - [14/Dec/2025 21:54:01] "[35m[1mPOST /search_affiliate HTTP/1.1[0m" 202 -
+2025-12-14 21:54:03,399 - INFO - 127.0.0.1 - - [14/Dec/2025 21:54:03] "GET /polling?job_id=job_1765724041352 HTTP/1.1" 200 -
+2025-12-14 21:54:10,443 - INFO - 127.0.0.1 - - [14/Dec/2025 21:54:10] "GET /polling?job_id=job_1765724041352 HTTP/1.1" 200 -
+2025-12-14 21:54:17,490 - INFO - 127.0.0.1 - - [14/Dec/2025 21:54:17] "GET /polling?job_id=job_1765724041352 HTTP/1.1" 200 -
+2025-12-14 21:54:24,548 - INFO - 127.0.0.1 - - [14/Dec/2025 21:54:24] "GET /polling?job_id=job_1765724041352 HTTP/1.1" 200 -
+2025-12-14 21:54:31,601 - INFO - [job_1765724041352] Tìm kiếm hoàn thành
+2025-12-14 21:54:31,604 - INFO - 127.0.0.1 - - [14/Dec/2025 21:54:31] "GET /polling?job_id=job_1765724041352 HTTP/1.1" 200 -
+2025-12-14 21:54:33,644 - INFO - [job_1765724041352] Trả về 20 kết quả
+2025-12-14 21:54:33,645 - INFO - 127.0.0.1 - - [14/Dec/2025 21:54:33] "GET /results?job_id=job_1765724041352 HTTP/1.1" 200 -
+2025-12-14 21:54:35,687 - INFO - 127.0.0.1 - - [14/Dec/2025 21:54:35] "GET /status HTTP/1.1" 200 -
+2025-12-14 22:08:19,001 - INFO -  * Detected change in 'D:\\MMO\\affiliate\\app.py', reloading
+2025-12-14 22:08:19,033 - INFO -  * Restarting with stat
+2025-12-14 22:08:19,254 - INFO - ==================================================
+2025-12-14 22:08:19,256 - INFO - Shopee Affiliate Scraper Server khởi động
+2025-12-14 22:08:19,256 - INFO - ==================================================
+2025-12-14 22:08:19,270 - WARNING -  * Debugger is active!
+2025-12-14 22:08:19,273 - INFO -  * Debugger PIN: 314-670-284
+2025-12-14 22:08:27,360 - INFO -  * Detected change in 'D:\\MMO\\affiliate\\app.py', reloading
+2025-12-14 22:08:27,386 - INFO -  * Restarting with stat
+2025-12-14 22:08:27,593 - INFO - ==================================================
+2025-12-14 22:08:27,593 - INFO - Shopee Affiliate Scraper Server khởi động
+2025-12-14 22:08:27,593 - INFO - ==================================================
+2025-12-14 22:08:27,606 - WARNING -  * Debugger is active!
+2025-12-14 22:08:27,607 - INFO -  * Debugger PIN: 314-670-284
+2025-12-14 22:08:50,837 - INFO -  * Detected change in 'D:\\MMO\\affiliate\\test_api_client.py', reloading
+2025-12-14 22:08:50,872 - INFO -  * Restarting with stat
+2025-12-14 22:08:51,061 - INFO - ==================================================
+2025-12-14 22:08:51,061 - INFO - Shopee Affiliate Scraper Server khởi động
+2025-12-14 22:08:51,061 - INFO - ==================================================
+2025-12-14 22:08:51,084 - WARNING -  * Debugger is active!
+2025-12-14 22:08:51,086 - INFO -  * Debugger PIN: 314-670-284
+2025-12-14 22:08:56,133 - INFO -  * Detected change in 'D:\\MMO\\affiliate\\test_api_client.py', reloading
+2025-12-14 22:08:56,159 - INFO -  * Restarting with stat
+2025-12-14 22:08:56,367 - INFO - ==================================================
+2025-12-14 22:08:56,367 - INFO - Shopee Affiliate Scraper Server khởi động
+2025-12-14 22:08:56,367 - INFO - ==================================================
+2025-12-14 22:08:56,381 - WARNING -  * Debugger is active!
+2025-12-14 22:08:56,384 - INFO -  * Debugger PIN: 314-670-284
+2025-12-14 22:09:12,214 - INFO - 127.0.0.1 - - [14/Dec/2025 22:09:12] "GET /health HTTP/1.1" 200 -
+2025-12-14 22:09:20,161 - INFO - Xóa file CSV cũ: Lấy link sản phẩm hàng loạt20251214215424-47e938b1f5e54d7c9fcf3aaa99089689.csv
+2025-12-14 22:09:20,162 - INFO - Xóa file CSV cũ: shopee_affiliate_links.csv
+2025-12-14 22:09:20,163 - INFO - [job_1765724960162] Chạy lệnh: python search_shopee_affiliate.py "cau long" --sub-id1 "zxc" --sub-id2 "zxc"
+2025-12-14 22:09:20,175 - INFO - 127.0.0.1 - - [14/Dec/2025 22:09:20] "[35m[1mPOST /search_affiliate HTTP/1.1[0m" 202 -
+2025-12-14 22:09:22,196 - INFO - 127.0.0.1 - - [14/Dec/2025 22:09:22] "GET /polling?job_id=job_1765724960162 HTTP/1.1" 200 -
+2025-12-14 22:09:29,243 - INFO - 127.0.0.1 - - [14/Dec/2025 22:09:29] "GET /polling?job_id=job_1765724960162 HTTP/1.1" 200 -
+2025-12-14 22:09:36,261 - INFO - 127.0.0.1 - - [14/Dec/2025 22:09:36] "GET /polling?job_id=job_1765724960162 HTTP/1.1" 200 -
+2025-12-14 22:09:43,328 - INFO - 127.0.0.1 - - [14/Dec/2025 22:09:43] "GET /polling?job_id=job_1765724960162 HTTP/1.1" 200 -
+2025-12-14 22:09:50,357 - INFO - [job_1765724960162] Tìm kiếm hoàn thành
+2025-12-14 22:09:50,357 - INFO - 127.0.0.1 - - [14/Dec/2025 22:09:50] "GET /polling?job_id=job_1765724960162 HTTP/1.1" 200 -
+2025-12-14 22:09:52,403 - INFO - [job_1765724960162] Trả về 20 kết quả
+2025-12-14 22:09:52,405 - INFO - 127.0.0.1 - - [14/Dec/2025 22:09:52] "GET /results?job_id=job_1765724960162 HTTP/1.1" 200 -
+2025-12-14 22:09:54,448 - INFO - 127.0.0.1 - - [14/Dec/2025 22:09:54] "GET /status HTTP/1.1" 200 -

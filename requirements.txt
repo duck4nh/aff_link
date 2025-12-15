@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+requests
+undetected-chromedriver
+selenium
+colorama

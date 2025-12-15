@@ -1,0 +1,67 @@
+### Health
+curl -X GET http://localhost:5000/health
+# Response
+{
+  "status": "ok",
+  "message": "Server is running"
+}
+
+### Init job async
+curl -X POST http://localhost:5000/search_affiliate \
+  -H "Content-Type: application/json" \
+  -d '{
+    "keyword": "cầu lông",
+    "sub_id1": "zxc",
+    "sub_id2": "zxc"
+  }
+# Response
+{
+  "status": "success",
+  "message": "Đã bắt đầu tìm kiếm affiliate link",
+  "keyword": "bóng rổ",
+  "job_id": "job_1765724041352"
+}
+
+
+### Polling job status
+curl -X GET "http://localhost:5000/polling?job_id=job_1765724041352"
+# Response running
+{
+  "status": "success",
+  "job_id": "job_1765724041352",
+  "keyword": "bóng rổ",
+  "job_status": "searching",
+  "message": "Vẫn đang tìm kiếm, vui lòng polling lại sau",
+  "created_at": "2025-12-14T21:54:01.352856"
+}
+# Response completed
+{
+  "status": "success",
+  "job_id": "job_1765724041352",
+  "keyword": "bóng rổ",
+  "job_status": "completed",
+  "created_at": "2025-12-14T21:54:01.352856",
+  "completed_at": "2025-12-14T21:54:31.601404"
+}
+
+
+### Results job
+curl -X GET "http://localhost:5000/polling?job_id=job_1765724041352"
+# Response
+{
+  "status": "success",
+  "job_id": "job_1765724041352",
+  "count": 20,
+  "data": [
+    {
+      "title": "Túi Bóng Rổ Bagged Bóng Lưới Túi Hai Bóng...",
+      "link": "https://s.shopee.vn/8V1sqOAWin"
+    },
+    {
+      "title": "Bóng Im Lặng Bóng Rổ Bóng Rơm Trẻ Em...",
+      "link": "https://s.shopee.vn/805cFTCQji"
+    },
+    ...
+  ]
+}
+

@@ -1,0 +1,47 @@
+{
+  "job_1765598551254": {
+    "status": "searching",
+    "keyword": "cầu lông",
+    "created_at": "2025-12-13T11:02:31.254573",
+    "completed_at": null
+  },
+  "job_1765598672140": {
+    "status": "searching",
+    "keyword": "cầu lông",
+    "created_at": "2025-12-13T11:04:32.140756",
+    "completed_at": null
+  },
+  "job_1765598884505": {
+    "status": "completed",
+    "keyword": "cầu lông",
+    "created_at": "2025-12-13T11:08:04.505642",
+    "completed_at": "2025-12-13T11:09:02.880349"
+  },
+  "job_1765599276091": {
+    "status": "completed",
+    "keyword": "điện thoại",
+    "created_at": "2025-12-13T11:14:36.091143",
+    "completed_at": "2025-12-13T11:15:34.486492"
+  },
+  "job_1765723699019": {
+    "status": "completed",
+    "keyword": "cau long",
+    "created_at": "2025-12-14T21:48:19.020460",
+    "completed_at": "2025-12-14T21:49:17.468976"
+  },
+  "job_1765724041352": {
+    "status": "completed",
+    "keyword": "bóng rổ",
+    "created_at": "2025-12-14T21:54:01.352856",
+    "completed_at": "2025-12-14T21:54:31.601404"
+  },
+  "job_1765724960162": {
+    "status": "completed",
+    "keyword": "cau long",
+    "sub_id1": "zxc",
+    "sub_id2": "zxc",
+    "sub_id3": null,
+    "created_at": "2025-12-14T22:09:20.163716",
+    "completed_at": "2025-12-14T22:09:50.357894"
+  }
+}
